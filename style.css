@@ -1,0 +1,26 @@
+p {
+    color: darkblue;
+    background-color: darkgray;
+    height: auto;
+    width: 75%;
+    font-size: 24px;
+}
+h1 {
+    color: darkgoldenrod;
+}
+#russia {
+    color: darkgray;
+}
+#usa {
+    background-color: darkorange;
+}
+.number {
+    background-color: deepskyblue;
+    font-size: 30px;
+}
+.two {
+    background-color: forestgreen;
+}
+.four {
+    font-size: 50px;
+}
